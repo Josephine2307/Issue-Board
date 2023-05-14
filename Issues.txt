@@ -1,0 +1,17 @@
+Bugs - Issues related to the errors or unexpected behavior of the application.
+
+Features - Issues related to the implementation of new features in the application.
+
+Enhancements - Issues related to the improvement of existing features in the application.
+
+Tasks - Issues related to the completion of a specific task in the application.
+
+Documentation - Issues related to the creation or updating of documentation for the application.
+
+Design - Issues related to the design of the application, such as user interface improvements.
+
+Testing - Issues related to the testing of the application, such as the creation of test cases or fixing failing tests.
+
+Deployment - Issues related to the deployment of the application, such as setting up the environment or fixing deployment issues.
+
+Security - Issues related to the security of the application, such as fixing vulnerabilities or implementing security features.
